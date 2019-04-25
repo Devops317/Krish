@@ -6,6 +6,10 @@ Kheer
 parota
 chicken
 
+pizza
+chapathi
+
+
 
 
 Thank you
